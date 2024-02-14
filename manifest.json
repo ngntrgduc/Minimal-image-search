@@ -1,0 +1,37 @@
+{
+    "name": "Minimal Image Search",
+    "version": "0.4.1",
+    "description": "Minimal extension to search image painlessly",
+    "manifest_version": 3,
+    "author": "Nguyen Trung Duc",
+    "icons": {
+        "16": "assets/icon16.png",
+        "32": "assets/icon32.png",
+        "128": "assets/icon128.png"
+    },
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Minimal Image Search",
+        "default_icon": "assets/icon.png"
+    },
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "contextMenus"
+    ],
+    "commands": {
+        "_execute_action": {
+            "suggested_key": {
+                "default": "Alt+Shift+S"
+            }
+        }
+    },
+    "browser_specific_settings": {
+        "gecko": {
+          "id": "ngntrgduc@MinimalImageSearch"
+        }
+    },
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
