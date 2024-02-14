@@ -1,13 +1,13 @@
 # Minimal image search
-Minimal Firefox extension to search image painlessly.
+Minimal Firefox extension to search images painlessly.
 
 ## Why?
-Firefox has no built-in search for image feature, and other extensions is not minimal
+Firefox has no built-in search for image feature, and other extensions are not as minimal
 as I want, so I built one.
 
 ## How to use?
-When you open the image in browser, using keyboard shortcut `Alt + Shift + S` (default, 
-you can set a different shortcut)  or right click on the image and select the 
+When you open the image in the browser, use keyboard shortcut `Alt + Shift + S` (default, 
+you can set a different shortcut)  or right-click on the image and select the 
 `Search image on Google` option.
 
 ## Installation
