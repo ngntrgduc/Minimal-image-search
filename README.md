@@ -6,9 +6,7 @@ Firefox has no built-in search for image feature, and other extensions are not a
 as I want, so I built one.
 
 ## How to use?
-When you open the image in the browser, use keyboard shortcut `Alt + Shift + S` (default, 
-you can set a different shortcut)  or right-click on the image and select the 
-`Search image on Google` option.
+When you open the image in the browser, use keyboard shortcut `Alt + Shift + S` (default), or you can set a different shortcut.
 
 ## Installation
 The extension is available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimal-image-search/).

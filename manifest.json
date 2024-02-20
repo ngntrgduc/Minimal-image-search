@@ -1,6 +1,6 @@
 {
     "name": "Minimal Image Search",
-    "version": "0.4.3",
+    "version": "0.5.0",
     "description": "Minimal extension to search image painlessly",
     "manifest_version": 3,
     "author": "Nguyen Trung Duc",
@@ -29,8 +29,5 @@
         "gecko": {
           "id": "ngntrgduc@MinimalImageSearch"
         }
-    },
-    "background": {
-        "scripts": ["background.js"]
     }
 }
