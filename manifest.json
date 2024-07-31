@@ -1,6 +1,6 @@
 {
     "name": "Minimal Image Search",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "description": "Minimal extension to search image painlessly",
     "manifest_version": 3,
     "author": "Nguyen Trung Duc",
@@ -15,8 +15,7 @@
         "default_icon": "assets/icon.png"
     },
     "permissions": [
-        "tabs",
-        "contextMenus"
+        "tabs"
     ],
     "commands": {
         "_execute_action": {
