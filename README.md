@@ -1,4 +1,4 @@
-> [NOTE]
+> [!IMPORTANT]
 > No longer mantained because I've switched to use bookmarklet.
 
 # Minimal image search
