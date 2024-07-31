@@ -1,3 +1,6 @@
+> [NOTE]
+> No longer mantained because I've switched to use bookmarklet.
+
 # Minimal image search
 Minimal Firefox extension to search images painlessly.
 
