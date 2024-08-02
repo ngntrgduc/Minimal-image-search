@@ -6,6 +6,6 @@ browser.tabs.query({ active: true, currentWindow: true }, function (tabs) {
         browser.tabs.update({
             url: "https://lens.google.com/uploadbyurl?url=" + url
         });
-        window.close();
     }
+    window.close();
 });

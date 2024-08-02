@@ -1,6 +1,6 @@
 {
     "name": "Minimal Image Search",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "description": "Minimal extension to search image painlessly",
     "manifest_version": 3,
     "author": "Nguyen Trung Duc",
