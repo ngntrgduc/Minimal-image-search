@@ -12,7 +12,8 @@ as I want, so I built one.
 When you open the image in the browser, use keyboard shortcut `Alt + Shift + S` (default), or you can set a different shortcut.
 
 ## Installation
-[![](https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/en-US/firefox/addon/minimal-image-search/)
+Extension available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimal-image-search/).
+
 
 ### Install from source
 1. Clone this repository/[download zip](https://github.com/ngntrgduc/Minimal-image-search/archive/refs/heads/master.zip) and extract to a folder on your local machine.
@@ -23,13 +24,6 @@ git clone https://github.com/ngntrgduc/Minimal-image-search.git
 
 2. Load extension on Firefox:
 Go to `about:debugging`, click `Load Temporary Add-on...`, then select `manifest.json` in the `src` folder.
-
-3. 
-   - Make the extension more visible by `Pin to Toolbar`
-   - Change shortcut if needed
-
-4. Enjoy ✨. 
-
 
 ## Contributing
 If you found a bug or want to contribute, feel free to open a issue/pull requests. 
