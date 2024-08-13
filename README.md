@@ -12,7 +12,7 @@ as I want, so I built one.
 When you open the image in the browser, use keyboard shortcut `Alt + Shift + S` (default), or you can set a different shortcut.
 
 ## Installation
-The extension is available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/minimal-image-search/).
+[![](https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/en-US/firefox/addon/minimal-image-search/)
 
 ### Install from source
 1. Clone this repository/[download zip](https://github.com/ngntrgduc/Minimal-image-search/archive/refs/heads/master.zip) and extract to a folder on your local machine.
