@@ -22,7 +22,7 @@ git clone https://github.com/ngntrgduc/Minimal-image-search.git
 ```
 
 2. Load extension on Firefox:
-Go to `about:debugging`, click `Load Temporary Add-on...`, then select `manifest.json` of the folder you have just cloned/downloaded.
+Go to `about:debugging`, click `Load Temporary Add-on...`, then select `manifest.json` in the `src` folder.
 
 3. 
    - Make the extension more visible by `Pin to Toolbar`
